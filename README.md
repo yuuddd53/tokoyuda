@@ -1,1 +1,61 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Yudastore - Tempat Belanja Online Terpercaya">
+    <title>Yudastore</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Beranda</a></li>
+                <li><a href="#">Produk</a></li>
+                <li><a href="#">Tentang Kami</a></li>
+                <li><a href="#">Kontak</a></li>
+                <li><a href="#">Login</a></li>
+            </ul>
+        </nav>
+    </header>
 
+    <main>
+        <section id="hero">
+            <h1>Selamat datang di Yudastore!</h1>
+            <p>Temukan produk terbaik dengan harga terjangkau hanya di Yudastore.</p>
+            <a href="#" class="cta-button">Lihat Produk</a>
+        </section>
+
+        <section id="featured-products">
+            <h2>Produk Unggulan</h2>
+            <div class="product-list">
+                <!-- Contoh produk -->
+                <div class="product">
+                    <img src="product1.jpg" alt="Produk 1">
+                    <h3>Produk 1</h3>
+                    <p>Harga: Rp100.000</p>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+                <div class="product">
+                    <img src="product2.jpg" alt="Produk 2">
+                    <h3>Produk 2</h3>
+                    <p>Harga: Rp150.000</p>
+                    <a href="#" class="btn">Beli Sekarang</a>
+                </div>
+                <!-- Produk lainnya -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Yudastore. Semua Hak Dilindungi.</p>
+        <ul>
+            <li><a href="#">Syarat & Ketentuan</a></li>
+            <li><a href="#">Kebijakan Privasi</a></li>
+        </ul>
+    </footer>
+
+    <script src="script.js"></script> <!-- Link ke file JavaScript eksternal -->
+</body>
+</html>
